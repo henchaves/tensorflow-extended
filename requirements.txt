@@ -1,0 +1,4 @@
+tensorflow
+tensorflow-data-validation
+jupyter
+pandas
