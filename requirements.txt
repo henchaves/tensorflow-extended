@@ -1,4 +1,5 @@
 tensorflow
 tensorflow-data-validation
+tensorflow-transform
 jupyter
 pandas
